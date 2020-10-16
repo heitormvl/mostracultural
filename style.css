@@ -6,10 +6,14 @@ body {
     margin: 0;
 }
 
+h2 {
+    font-family: 'Comfortaa', cursive;
+}
+
 #cabecalho {
     background-color: gray;
-    height: 150px;
-    line-height: 150px;
+    height: 110px;
+    line-height: 110px;
 
     font-family: 'Comfortaa', cursive;
     text-transform: uppercase;
@@ -49,7 +53,32 @@ body {
     text-decoration: none;
 }
 
+#videos {
+    display: block;
+    float: left;
+}
+
+#palestras {
+    display: block;
+    float: left;
+}
+
+#instagram img {
+    width: 300px;
+}
+
+#instagram a {
+    width: 400px;
+    height: 400px;
+}
+
 .container {
     max-width: 1800px;
     margin: 0 auto;
+}
+
+iframe {
+    margin: 10px;
+    border: solid 3px black;
+    border-radius: 15px;
 }
