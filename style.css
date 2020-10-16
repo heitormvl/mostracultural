@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap');
+
+
+body {
+    color: black;
+    margin: 0;
+}
+
+#cabecalho {
+    background-color: gray;
+    height: 150px;
+    line-height: 150px;
+
+    font-family: 'Comfortaa', cursive;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+#cabecalho a:hover {
+    color: white;
+}
+
+#titulo-cabecalho {
+    display: block;
+    float: left;
+
+    font-size: 40px;
+    font-weight: bolder;
+
+    color: yellow;
+    text-decoration: none;
+}
+
+#navegacao-cabecalho {
+    display: block;
+    float: right;
+    margin-top: 0;
+
+    font-size: 20px;
+}
+
+#navegacao-cabecalho li {
+    display: inline;
+    padding-left: 20px;
+}
+
+#navegacao-cabecalho a {
+    color: black;
+    text-decoration: none;
+}
+
+.container {
+    max-width: 1800px;
+    margin: 0 auto;
+}
