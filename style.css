@@ -16,82 +16,12 @@ div.insta {
     background-size: contain;
 }
 
-
-/* 
-body {
-    color: black;
-    margin: 0;
-}
-
-#cabecalho {
-    background-color: gray;
-    height: 110px;
-    line-height: 110px;
-
-    font-family: 'Comfortaa', cursive;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-}
-
-#cabecalho a:hover {
+a {
     color: white;
-}
-
-#titulo-cabecalho {
-    display: block;
-    float: left;
-
-    font-size: 40px;
-    font-weight: bolder;
-
-    color: yellow;
     text-decoration: none;
 }
 
-#navegacao-cabecalho {
-    display: block;
-    float: right;
-    margin-top: 0;
-
-    font-size: 20px;
-}
-
-#navegacao-cabecalho li {
-    display: inline;
-    padding-left: 20px;
-}
-
-#navegacao-cabecalho a {
-    color: black;
+a:hover {
+    color: grey;
     text-decoration: none;
 }
-
-#videos {
-    display: block;
-    float: left;
-}
-
-#palestras {
-    display: block;
-    float: left;
-}
-
-#instagram img {
-    width: 300px;
-}
-
-#instagram a {
-    width: 400px;
-    height: 400px;
-}
-
-.container {
-    max-width: 1800px;
-    margin: 0 auto;
-}
-
-iframe {
-    margin: 10px;
-    border: solid 3px black;
-    border-radius: 15px;
-} */
