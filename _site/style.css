@@ -14,14 +14,20 @@ div.insta {
     height: 2em;
     background-image: url(insta.png);
     background-size: contain;
+    margin-top: 11px;
 }
 
-a {
-    color: white;
+.nav-item a {
+    color: white !important;
     text-decoration: none;
 }
 
-a:hover {
-    color: grey;
-    text-decoration: none;
+.navbar-brand {
+    color: yellow !important;
+    font-weight: bold;
+}
+
+iframe {
+    border: solid black 2px !important;
+    border-radius: 10px !important;
 }
